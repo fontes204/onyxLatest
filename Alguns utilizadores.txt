@@ -1,0 +1,27 @@
+﻿
+Alguns utilizadores da Administracao Municipal de Cacuaco
+
+
+joao.fontes		- Secretario
+								  	- MAS TRABALHA SO COM UM DELES
+maria.joao		- Secretaria
+
+lukau.garcia	- Chefe Gab Admin 	- mas já vamos lhe excluir
+
+jorge.coelho	- Administrador
+
+sadoc.sousa		- DMGUUC
+
+alice.coelho	- CRGUUC
+
+miguel.Tecnico 	- Tecnico da RUC	-	EH TEC. ADMINISTRATIVO
+									-	
+paulo.miguel	- Tecnico da RUC	-	EH TEC. CAMPO
+
+
+matondo.quela	- Super Admin
+
+
+
+
+http://localhost:81/onyx/dmguuc/addParecer/MTQ=

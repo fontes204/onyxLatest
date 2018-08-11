@@ -1,0 +1,9 @@
+.palco{
+    width: 101.9%;
+    height: 550px;
+    background: url(../../back-grounds/onyx.png) no-repeat 45% 30%;
+    /*background-size: 50% 70%;*/
+}
+body{
+    /*overflow: hidden;*/
+}
