@@ -51,7 +51,7 @@ function coordenadas(lat,lng) {
     var lng=$('.'+lng).val();
     var id_zona=$('.id_zona').val();
         $.get(URL+'terreno/verificacao',{'lat':lat,'lng':lng,'id_zona':id_zona},function (x) {
-             alert(x);
+             // alert(x);
             // alert(x[0].nome+' '+x[0].id+' '+x[0].sobre);
             if(x[0].nome!=null && x[0].id!=0 && x[0].tipo=="igual")
             {

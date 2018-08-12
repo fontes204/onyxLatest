@@ -26,6 +26,7 @@
     <option name="SHOW_EMPTY_GROUPS" value="false" />
     <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="onyx" />
   </component>
@@ -34,12 +35,10 @@
       <file leaf-file-name="View.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/libs/View.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
+            <state relative-caret-position="493">
               <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
               <folding>
                 <element signature="n#render1#0;n#View#0;n#!!top" expanded="false" />
-                <marker date="1505749518935" expanded="true" signature="823:1208" ph="{...}" />
-                <marker date="1505749518935" expanded="true" signature="1061:1152" ph="..." />
               </folding>
             </state>
           </provider>
@@ -74,41 +73,56 @@
               <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
               <folding>
                 <marker date="1505802730103" expanded="true" signature="5179:6059" ph="..." />
-                <marker date="1505802730103" expanded="true" signature="5179:6070" ph="..." />
-                <marker date="1505802730103" expanded="true" signature="5179:6104" ph="..." />
-                <marker date="1505802730103" expanded="true" signature="5179:6133" ph="..." />
-                <marker date="1505802730103" expanded="true" signature="5179:6156" ph="..." />
-                <marker date="1505802730103" expanded="true" signature="5179:6175" ph="..." />
-                <marker date="1505802730103" expanded="true" signature="5179:6221" ph="..." />
-                <marker date="1505802730103" expanded="true" signature="5179:6260" ph="..." />
-                <marker date="1505802730103" expanded="true" signature="5179:6288" ph="..." />
-                <marker date="1505802730103" expanded="true" signature="5190:6027" ph="..." />
-                <marker date="1505802730103" expanded="true" signature="5233:5245" ph="..." />
-                <marker date="1505802730103" expanded="true" signature="5294:5323" ph="..." />
-                <marker date="1505802730103" expanded="true" signature="5417:5436" ph="..." />
-                <marker date="1505802730103" expanded="true" signature="5485:5515" ph="..." />
-                <marker date="1505802730103" expanded="true" signature="5564:5594" ph="..." />
-                <marker date="1505802730103" expanded="true" signature="5657:5993" ph="..." />
-                <marker date="1505802730103" expanded="true" signature="5697:5955" ph="..." />
-                <marker date="1505802730103" expanded="true" signature="5753:5764" ph="..." />
-                <marker date="1505802730103" expanded="true" signature="5784:5794" ph="..." />
-                <marker date="1505802730103" expanded="true" signature="5840:5852" ph="..." />
-                <marker date="1505802730103" expanded="true" signature="5874:5883" ph="..." />
-                <marker date="1505802730103" expanded="true" signature="6376:7872" ph="..." />
-                <marker date="1505802730103" expanded="true" signature="6407:7865" ph="..." />
-                <marker date="1505802730103" expanded="true" signature="6443:7854" ph="..." />
-                <marker date="1505802730103" expanded="true" signature="6482:6707" ph="..." />
-                <marker date="1505802730103" expanded="true" signature="6744:7700" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProcessoDao.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ProcessoDao.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/models/dao/ProcessoDao.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="35" column="168" lean-forward="false" selection-start-line="35" selection-start-column="168" selection-end-line="35" selection-end-column="168" />
+            <state relative-caret-position="389">
+              <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="35" selection-end-column="168" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/main/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="157" column="28" lean-forward="true" selection-start-line="157" selection-start-column="28" selection-end-line="157" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="back-end.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/back-end.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="316">
+              <caret line="543" column="14" lean-forward="false" selection-start-line="543" selection-start-column="14" selection-end-line="543" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="funcoes.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/js/google-maps/funcoes.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="546">
+              <caret line="66" column="45" lean-forward="false" selection-start-line="66" selection-start-column="45" selection-end-line="66" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/admin.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -126,8 +140,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>$dao</find>
-      <find>$ft</find>
       <find>$idUtilizador</find>
       <find>frm-verifcar-senha</find>
       <find>.btn-verificar-senha</find>
@@ -138,7 +150,6 @@
       <find>add-conta</find>
       <find>add</find>
       <find>&lt;for</find>
-      <find>alert</find>
       <find>email</find>
       <find>frm-captura-coords</find>
       <find>agre</find>
@@ -156,6 +167,9 @@
       <find>vez</find>
       <find>pró</find>
       <find>frm-add-conta</find>
+      <find>alert</find>
+      <find>alert(</find>
+      <find>btn-capturar</find>
     </findStrings>
     <replaceStrings>
       <replace>$k</replace>
@@ -193,6 +207,9 @@
       <dir>$PROJECT_DIR$</dir>
       <dir>$PROJECT_DIR$/views</dir>
     </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -237,17 +254,17 @@
         <option value="$PROJECT_DIR$/views/sga/legalizacao_terreno/processo/criar_processo/individual/index.php" />
         <option value="$PROJECT_DIR$/views/tecnico/legalizacao_terreno/processo/index.php" />
         <option value="$PROJECT_DIR$/public/js/front-end.js" />
-        <option value="$PROJECT_DIR$/public/js/google-maps/funcoes.js" />
-        <option value="$PROJECT_DIR$/public/js/back-end.js" />
         <option value="$PROJECT_DIR$/views/super/cadastro/utilizador/index.php" />
         <option value="$PROJECT_DIR$/public/js/crud/select.js" />
         <option value="$PROJECT_DIR$/views/main/modals.php" />
         <option value="$PROJECT_DIR$/libs/View.php" />
         <option value="$PROJECT_DIR$/libs/App.php" />
-        <option value="$PROJECT_DIR$/views/main/header.php" />
         <option value="$PROJECT_DIR$/controllers/utilizadorController.php" />
         <option value="$PROJECT_DIR$/public/js/crud/insert.js" />
         <option value="$PROJECT_DIR$/models/dao/ProcessoDao.php" />
+        <option value="$PROJECT_DIR$/views/main/header.php" />
+        <option value="$PROJECT_DIR$/public/js/back-end.js" />
+        <option value="$PROJECT_DIR$/public/js/google-maps/funcoes.js" />
       </list>
     </option>
   </component>
@@ -289,13 +306,48 @@
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
-          <expand>
-            <path>
-              <item name="onyx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="onyx" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-          </expand>
-          <select />
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="onyx" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="onyx" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="onyx" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="onyx" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="onyx" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="onyx" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -341,16 +393,20 @@
     </option>
   </component>
   <component name="RunManager" selected="PHP Script.RelatorioTecnico.php">
-    <configuration name="RelatorioTecnico.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/views/relatorio/classes/RelatorioTecnico.php" />
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
+    <configuration default="false" name="funcoes.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="funcoes.js" working-dir="$PROJECT_DIR$/public/js">
+      <browser name="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSStartBrowserRunConfigurationExtension">
+        <browser name="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <configuration default="false" name="RelatorioTecnico.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/views/relatorio/classes/RelatorioTecnico.php">
+      <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
       <method />
     </configuration>
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -364,17 +420,21 @@
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
       <method />
     </configuration>
-    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run-script" />
-      <scripts />
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
       <envs />
       <method />
     </configuration>
-    <configuration name="funcoes.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="funcoes.js" working-dir="$PROJECT_DIR$/public/js">
-      <browser name="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-      <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSStartBrowserRunConfigurationExtension">
-        <browser name="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
-      </EXTENSION>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
     </configuration>
     <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Node.js.funcoes.js" />
@@ -892,11 +952,12 @@
       <workItem from="1505749293390" duration="666000" />
       <workItem from="1506251861326" duration="137000" />
       <workItem from="1508014825649" duration="1320000" />
+      <workItem from="1534030470119" duration="2718000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1122999000" />
+    <option name="totallyTimeSpent" value="1125717000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -908,13 +969,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1370" height="754" extended-state="0" />
+    <frame x="-8" y="0" width="1370" height="754" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17799114" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17799114" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -930,7 +992,7 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="processedProjectFiles" value="true" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -1048,13 +1110,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/admin.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/tecnico/legalizacao_terreno/processo/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1101,20 +1156,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/google-maps/funcoes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="53" column="15" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/back-end.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="558" column="45" lean-forward="false" selection-start-line="558" selection-start-column="45" selection-end-line="558" selection-end-column="45" />
         </state>
       </provider>
     </entry>
@@ -1202,13 +1243,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/main/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/controllers/superController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1284,12 +1318,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/libs/View.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
+        <state relative-caret-position="493">
           <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
           <folding>
             <element signature="n#render1#0;n#View#0;n#!!top" expanded="false" />
-            <marker date="1505749518935" expanded="true" signature="823:1208" ph="{...}" />
-            <marker date="1505749518935" expanded="true" signature="1061:1152" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1308,39 +1340,46 @@
           <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
           <folding>
             <marker date="1505802730103" expanded="true" signature="5179:6059" ph="..." />
-            <marker date="1505802730103" expanded="true" signature="5179:6070" ph="..." />
-            <marker date="1505802730103" expanded="true" signature="5179:6104" ph="..." />
-            <marker date="1505802730103" expanded="true" signature="5179:6133" ph="..." />
-            <marker date="1505802730103" expanded="true" signature="5179:6156" ph="..." />
-            <marker date="1505802730103" expanded="true" signature="5179:6175" ph="..." />
-            <marker date="1505802730103" expanded="true" signature="5179:6221" ph="..." />
-            <marker date="1505802730103" expanded="true" signature="5179:6260" ph="..." />
-            <marker date="1505802730103" expanded="true" signature="5179:6288" ph="..." />
-            <marker date="1505802730103" expanded="true" signature="5190:6027" ph="..." />
-            <marker date="1505802730103" expanded="true" signature="5233:5245" ph="..." />
-            <marker date="1505802730103" expanded="true" signature="5294:5323" ph="..." />
-            <marker date="1505802730103" expanded="true" signature="5417:5436" ph="..." />
-            <marker date="1505802730103" expanded="true" signature="5485:5515" ph="..." />
-            <marker date="1505802730103" expanded="true" signature="5564:5594" ph="..." />
-            <marker date="1505802730103" expanded="true" signature="5657:5993" ph="..." />
-            <marker date="1505802730103" expanded="true" signature="5697:5955" ph="..." />
-            <marker date="1505802730103" expanded="true" signature="5753:5764" ph="..." />
-            <marker date="1505802730103" expanded="true" signature="5784:5794" ph="..." />
-            <marker date="1505802730103" expanded="true" signature="5840:5852" ph="..." />
-            <marker date="1505802730103" expanded="true" signature="5874:5883" ph="..." />
-            <marker date="1505802730103" expanded="true" signature="6376:7872" ph="..." />
-            <marker date="1505802730103" expanded="true" signature="6407:7865" ph="..." />
-            <marker date="1505802730103" expanded="true" signature="6443:7854" ph="..." />
-            <marker date="1505802730103" expanded="true" signature="6482:6707" ph="..." />
-            <marker date="1505802730103" expanded="true" signature="6744:7700" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/models/dao/ProcessoDao.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="168" lean-forward="false" selection-start-line="35" selection-start-column="168" selection-end-line="35" selection-end-column="168" />
+        <state relative-caret-position="389">
+          <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="27" selection-end-line="35" selection-end-column="168" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/admin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/main/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="157" column="28" lean-forward="true" selection-start-line="157" selection-start-column="28" selection-end-line="157" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/back-end.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="543" column="14" lean-forward="false" selection-start-line="543" selection-start-column="14" selection-end-line="543" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/google-maps/funcoes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="66" column="45" lean-forward="false" selection-start-line="66" selection-start-column="45" selection-end-line="66" selection-end-column="45" />
           <folding />
         </state>
       </provider>

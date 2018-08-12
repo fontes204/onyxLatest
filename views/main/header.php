@@ -154,7 +154,7 @@ else
                         <a href="<?php echo URL.$redirect?>" class="dropdown-toggle">
                             <img class="" src="<?php echo URL ?>public/insignia/insignia.png" alt="" />
                             <span class="f-s-13"><strong><?php echo strtoupper(html_entity_decode($nome))?></strong></span>
-                            <span class="f-s-13"><?php echo ' | '.strtoupper(html_entity_decode($departamento->_perfil))?></span>
+<!--                            <span class="f-s-13">--><?php //echo ' | '.strtoupper(html_entity_decode($departamento->_perfil))?><!--</span>-->
                         </a>
                     </li>
                 </ul>

@@ -401,7 +401,7 @@ $(this).ready(function () {
             'destino': destino,
             'desc': desc
         }, function (x) {
-            alert(x);
+            // alert(x);
             if (x == 1) {
                 $('.txt-call-back').html('O processo foi enviado com sucesso');
                 $('#modal-dialog').modal('show');
@@ -448,7 +448,7 @@ $(this).ready(function () {
             'user': 'cga1',
             'destino': destino
         }, function (x) {
-            alert(x);
+            // alert(x);
             if (x == '1') {
                 $('.txt-call-back').html('O processo foi enviado com sucesso');
                 $('#modal-dialog').modal('show');
@@ -468,7 +468,7 @@ $(this).ready(function () {
             'destino': destino,
             'desc': desc
         }, function (x) {
-            alert(x);
+            // alert(x);
             if (x == '1') {
                 $('.txt-call-back').html('O processo foi enviado com sucesso');
                 $('#modal-dialog').modal('show');
@@ -488,7 +488,7 @@ $(this).ready(function () {
             'destino': destino,
             'desc': desc
         }, function (x) {
-            alert(x);
+            // alert(x);
             if (x == '1') {
                 $('.txt-call-back').html('O processo foi enviado com sucesso');
                 $('#modal-dialog').modal('show');
@@ -508,7 +508,7 @@ $(this).ready(function () {
             'destino': destino,
             'desc': desc
         }, function (x) {
-            alert(x);
+            // alert(x);
             if (x == '1') {
                 $('.txt-call-back').html('O processo foi enviado com sucesso');
                 $('#modal-dialog').modal('show');
